@@ -1,1 +1,6 @@
-# momentun_research
+# 動能因子
+
+## 1
+
+
+## 2
